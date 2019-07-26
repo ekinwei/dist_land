@@ -1,0 +1,2 @@
+webpackJsonp([10],{IeRW:function(n,t,e){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var a={render:function(){var n=this.$createElement;return(this._self._c||n)("div",{staticClass:"ad_details"},[this._v("\n  广告页4\n")])},staticRenderFns:[]};var c=e("VU/8")({name:"ad4",components:{},data:function(){return{}},created:function(){},mounted:function(){},methods:{}},a,!1,function(n){e("an9Y")},"data-v-15a0b3c6",null);t.default=c.exports},an9Y:function(n,t){}});
+//# sourceMappingURL=10.147c2f7b00ac2604d355.js.map
